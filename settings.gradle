@@ -1,0 +1,3 @@
+rootProject.name = "Android Lessons Kotlin"
+include ':app'
+include ':android_palyer'
